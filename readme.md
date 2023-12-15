@@ -6,4 +6,9 @@
 
 * https://rinatz.github.io/cpp-book/
   * c++初学者向け、に見える
-  * [rinatz.github.io-cpp-book](./rinatz.github.io-cpp-book)
+  * [rinatz.github.io-cpp-book](./rinatz.github.io-cpp-book
+
+
+# memo
+
+* [ ]`std::vector`と`std::set`の使いどころは何が違う？(C++11)
